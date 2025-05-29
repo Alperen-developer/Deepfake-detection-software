@@ -67,7 +67,7 @@ DeepFake Detector is an advanced cross-platform solution that identifies manipul
      - Visual heatmap creation for detected manipulations
 
 ## 📝 License
-  This project is licensed under the MIT License - see LICENSE file for details.
+  This project is licensed under the GPL-3.0 License - see LICENSE file for details.
   Copyright © 2025 Alperen ERKAN. All rights reserved.
 
 Permissions:
